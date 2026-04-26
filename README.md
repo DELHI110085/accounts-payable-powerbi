@@ -31,3 +31,7 @@ PowerBI helped convert raw data into interactive dashboards, making it easier to
 
 ## Author
 Name- Rajat Gupta
+
+## Note
+This Power BI dashboard is built using the Accounts Payable dataset.
+The same dataset is also used in a separate SQL project where data extraction and analysis were performed independently. In this project, the focus is on data visualization and business insights using Power BI.
